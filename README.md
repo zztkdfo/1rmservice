@@ -8,27 +8,29 @@ AI DX Provier
 <b>💻 Tech Skills 💻</b><br />  
 
 📝📝 Back End <br />  
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
-![SpringDocs](https://img.shields.io/badge/SpringDocs-6DB33F?style=for-the-badge&logo=SpringDocs&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
-![Microservices](https://img.shields.io/badge/Microservices-D9232E?style=for-the-badge&logo=MicroStrategy&logoColor=white)
-![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)
-![EDA](https://img.shields.io/badge/EDA-000000?style=for-the-badge&logo=EDA&logoColor=white)
 
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=for-the-badge&logo=Istio&logoColor=white)
+![Microservices](https://img.shields.io/badge/Microservices-D9232E?style=for-the-badge&logo=MicroStrategy&logoColor=white)
+![EDA](https://img.shields.io/badge/EDA-000000?style=for-the-badge&logo=EDA&logoColor=white)
+![Envoy](https://img.shields.io/badge/Envoy-FF7F7F?style=for-the-badge&logo=Envoy&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-02458D?style=for-the-badge&logo=gRPC&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
+![WebFlux](https://img.shields.io/badge/WebFlux-F78C40?style=for-the-badge&logo=WebFlux&logoColor=white)
+
+![QueryDSL](https://img.shields.io/badge/QueryDSL-52B0E7?style=for-the-badge&logo=QueryDSL&logoColor=white)
+![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=Flyway&logoColor=white)
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=Redis&logoColor=white)
-![gRPC](https://img.shields.io/badge/gRPC-02458D?style=for-the-badge&logo=gRPC&logoColor=white)
-![Envoy](https://img.shields.io/badge/Envoy-FF7F7F?style=for-the-badge&logo=Envoy&logoColor=white)
-![Flyway](https://img.shields.io/badge/Flyway-CC0200?style=for-the-badge&logo=Flyway&logoColor=white)
-![QueryDSL](https://img.shields.io/badge/QueryDSL-52B0E7?style=for-the-badge&logo=QueryDSL&logoColor=white)
-![RESTful](https://img.shields.io/badge/RESTful-FF9A00?style=for-the-badge&logo=RESTful&logoColor=white)
-
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
-![WebFlux](https://img.shields.io/badge/WebFlux-F78C40?style=for-the-badge&logo=WebFlux&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=RabbitMQ&logoColor=white)
 ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=Swagger&logoColor=white)
+![SpringDocs](https://img.shields.io/badge/SpringDocs-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
+
 ![OpenAPI 3.0](https://img.shields.io/badge/OpenAPI_3.0-412991?style=for-the-badge&logo=gRPC&logoColor=white)
+![RESTful](https://img.shields.io/badge/RESTful-FF9A00?style=for-the-badge&logo=RESTful&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=GraphQL&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=for-the-badge&logo=Gradle&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=Go&logoColor=white)
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 <br />  
 💬💬 Dev Ops <br />  
