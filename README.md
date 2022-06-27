@@ -20,7 +20,7 @@ AI DX Provier
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 <br />  
-📝📝 Dev Ops <br />  
+💬💬 Dev Ops <br />  
 ![Docker](https://img.shields.io/badge/Docker-61DAFB?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=NGINX&logoColor=white)
