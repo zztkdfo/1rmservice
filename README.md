@@ -7,7 +7,7 @@ AI DX Provier
 <br />  
 <b>💻 Tech Skills 💻</b><br />  
 
-📝📝 Back End <br />  
+😇😇 Back End <br />  
 ![Java](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Microservices](https://img.shields.io/badge/Microservices-D9232E?style=for-the-badge&logo=MicroStrategy&logoColor=white)
 ![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=SpringBoot&logoColor=white)
@@ -20,7 +20,8 @@ AI DX Provier
 ![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white)
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=IntelliJIDEA&logoColor=white)
 <br />  
-💬💬 Dev Ops <br />  
+
+😎😎 Dev Ops <br />  
 ![Docker](https://img.shields.io/badge/Docker-61DAFB?style=for-the-badge&logo=Docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=Kubernetes&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-326CE5?style=for-the-badge&logo=Grafana&logoColor=white)
@@ -28,17 +29,17 @@ AI DX Provier
 ![Linux](https://img.shields.io/badge/Linux-F46800?style=for-the-badge&logo=Linux&logoColor=white)
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white)
-![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=ElasticStack&logoColor=white)
 
+![Elastic Stack](https://img.shields.io/badge/Elastic_Stack-005571?style=for-the-badge&logo=ElasticStack&logoColor=white)
 ![Zookeeper](https://img.shields.io/badge/Zookeeper-83B81A?style=for-the-badge&logo=Zookeeper&logoColor=white)
 ![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-231F20?style=for-the-badge&logo=ApacheKafka&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=AmazonAWS&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=Jenkins&logoColor=white)
 ![Jaeger](https://img.shields.io/badge/Jaeger-0099E5?style=for-the-badge&logo=Jaeger&logoColor=white)
-
 <br />  
-🎨🎨 Front End <br />  
+
+😍😍 Front End <br />  
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=React&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white)
 ![Recoil](https://img.shields.io/badge/Recoil-FAB040?style=for-the-badge&logo=Recoil&logoColor=white)
@@ -55,7 +56,8 @@ AI DX Provier
 ![VisualStudioCode](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=for-the-badge&logo=VisualStudioCode&logoColor=white)
 ![Prettier](https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=Prettier&logoColor=white)
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=white)
-<br />  
+<br /> 
+
 ✨✨ Common <br />  
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
