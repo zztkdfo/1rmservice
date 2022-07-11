@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=gradient&text=1rm_Overview&height=200&fontSize=30&fontColor=black)
 
 <b>⚡ Goal ⚡</b> <br />  
-AI DX Provier
+AI DX Provider
 <br />  
 <br />  
 <b>💻 Tech Skills 💻</b><br />  
